@@ -3,7 +3,7 @@ import { Http } from '@angular/http';
 import 'rxjs/add/operator/map';
 
 export class TodoService { 
-  constructor(private http: Http) { 
+  constructor(private http: Http) {
   }
 
   add(todo) {
