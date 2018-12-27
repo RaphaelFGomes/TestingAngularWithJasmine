@@ -1,1 +1,2 @@
 [1226/151510.745:ERROR:exception_handler_server.cc(472)] failed to open 11712
+[1227/172111.248:ERROR:crash_report_database_win.cc(569)] CreateDirectory C:\Users\raphael.fg\AppData\Local\Temp\karma-74544167\Crashpad: The system cannot find the path specified. (0x3)
